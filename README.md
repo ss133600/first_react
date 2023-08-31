@@ -91,3 +91,7 @@ npm run start
 개발자 플랫폼
 
 터미널에 git-init 엔터
+
+git hub에서 내려받은 파일은
+node_modules 폴더가 없기 때문에
+터미널창에서 npm install를 해줘야함
